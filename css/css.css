@@ -1,0 +1,173 @@
+.btn-dau{
+	background-color: black !important;
+	border-color: black !important;
+	color: red !important;
+	width: 300px !important;
+}
+/** bat dau tu day **/
+
+#container1{
+	width: 2000px;
+	height: 904px;
+	background-color: #2ecc71;
+}
+.logo{
+	margin-top: 33px !important;
+	margin-left: 415px !important;
+}
+.menu1 ul{
+	float: left;
+	list-style-type: none;
+	background: #2ecc71;
+	text-align: center;
+}
+.menu1 ul li{
+	color: #fefefe;
+	display: inline-table;
+	margin-left: 21px;
+	margin-right: 21px;
+	margin-top: 33px;
+	height: 42px;
+	line-height: 42px;
+}
+.menu1 ul li a{
+	color: #fefefe;
+	text-decoration: none;
+	display: block;
+	font-size: 18px;
+	font-family: 'Roboto', sans-serif;
+}
+.getapp{
+  border-radius: 50px;
+    z-index: 130;
+    height: 42px;
+    width: 140px;
+    background-color: #ffffff;
+    color: #2ecc71;
+}
+#backh{
+	background-image: url(img/vhjvjh.png);
+	background-repeat: no-repeat;
+}
+#container2{
+	width: 2000px;
+	height: 900px;
+	background-color: #ffffff;
+}
+#iphone{
+	margin-top: 92px !important;
+	margin-left: 400px !important;
+	float: left !important;
+}
+#fontchu{
+	margin-left: 70px;
+	margin-top: 382px;
+	margin-right: 400px;
+}
+#fontchu h2{
+	color: #5a5a5a;
+	font-size: 40px;
+	font-family: 'Roboto', sans-serif;
+
+}
+#fontchu h3{
+	font-size: 18px;
+	font-family: 'Roboto', sans-serif;
+	line-height: 30px;
+}
+#container3{
+	width: 2000px;
+	height: 900px;
+	background-color: #f9f9f9;
+
+}
+#coin{
+	margin-top: 122px;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	margin-left: 585px;
+	margin-right: 556px;
+}
+#coin h2{
+	font-size: 46px;
+	color: #5a5a5a;
+}
+#coin h3{
+	font-size: 18px;
+	line-height: 30px;
+}
+#khucgiua{
+	margin-top: 93px;
+
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#container4{
+	width: 2000px;
+	height: 702px;
+	background-color: #ffffff;
+	text-align: left;
+}
+#piza h2{
+	font-size: 48px;
+	color: #5a5a5a;
+	font-family: 'Roboto', sans-serif;
+	margin-left: 414px;
+	margin-top: 283px;
+}
+#piza h3{
+	font-size: 18px;
+	color: rgb(90, 90, 90);
+	line-height: 1.778;
+	text-align: left;
+	margin-left: 414px;
+	z-index: 61;
+}
+#pizahut{
+	margin-top: 136px;
+	margin-left: 149px;
+}
+#container5{
+	width: 2000px;
+	height: 411px;
+	background-image: url('img/cuoitrang.png');
+	background-color: #2ecc71;
+
+}
+#cuoi1{
+	text-align: center;
+}
+#cuoi1 h2{
+	margin-left: 670px;
+	margin-top: 123px;
+	margin-right: 663px;
+	font-size: 48px;
+	color: #ffffff;
+	font-family: 'Roboto', sans-serif;
+}
+#cuoi1 h3{
+	margin-left: 586px;
+	margin-right: 567px;
+	font-size: 18px;
+	color: #b9eed0;
+	font-family: 'Roboto', sans-serif;
+}
+#cuoi1 #cuoi2 a{
+	color: #2ecc71;
+	font-size: 18px;
+	text-align: center;
+	text-decoration: none;
+	cursor: pointer;
+
+}
+#cuoi1 #cuoi2{
+	margin-top: 63px;
+	width: 209px;
+	height: 42px;
+	background-color: #ffffff;
+	color: #2ecc71;
+	font-size: 18px;
+	line-height: 42px;
+	border-radius: 25px;
+}
